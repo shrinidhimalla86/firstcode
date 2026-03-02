@@ -1,0 +1,9 @@
+{
+	"name": "SmithaADF1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0de8e123-01af-4568-a6d9-9f1462fcde48",
+		"tenantId": "295316cc-00f6-4ba2-aff3-6728800b709a"
+	}
+}
